@@ -32,10 +32,22 @@ Install Microsoft Visual Studio 2022: <br/>
 <img src="https://imgur.com/ngi7XM1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Microsoft Visual Studio 2022: <br/>
-<img src="https://imgur.com/dDqIauq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Install Keylogger Master Zip File as a zip file: <br/>
+<img src="https://imgur.com/ktZ7eJt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
-<img src="https://imgur.com/htNbkOs.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/A5YQslz.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Open up the "mykeylogger01.sin" file in Visual Studio: <br/>
+<img src="https://imgur.com/z8qOkV2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+On the right hand side, double-click the "program" to open up the keylogger: <br/>
+<img src="https://imgur.com/PTQ698V.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+On the right hand side, double-click the "program" to open up the keylogger: <br/>
+<img src="https://imgur.com/PTQ698V.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
